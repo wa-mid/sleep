@@ -54,11 +54,7 @@
         /// 
         $('.section-title').html(title);
     }
-
-
-    
-
-    
+ 
 
     $(document).ready(function () {
 
